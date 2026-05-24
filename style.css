@@ -1,0 +1,116 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container table{
+    position: fixed;
+}
+table,tr,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 80px;
+    width: 800px;
+    margin: 50px 350px;
+}
+.box1 td:nth-child(even){
+    background-color: #b46700;
+}
+.box1 td:nth-child(odd){
+    background-color: #ffd091;
+}
+.container .box1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box2 td:nth-child(odd){
+    background-color: #b46700;
+}
+.box2 td:nth-child(even){
+    background-color: #ffd091;
+}
+.container .box2{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box3 td:nth-child(even){
+    background-color: #b46700;
+}
+.box3 td:nth-child(odd){
+    background-color: #ffd091;
+}
+.container .box3{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box4 td:nth-child(odd){
+    background-color: #b46700;
+}
+.box4 td:nth-child(even){
+    background-color: #ffd091;
+}
+.container .box4{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box5 td:nth-child(even){
+    background-color: #b46700;
+}
+.box5 td:nth-child(odd){
+    background-color: #ffd091;
+}
+.container .box5{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box6 td:nth-child(odd){
+    background-color: #b46700;
+}
+.box6 td:nth-child(even){
+    background-color: #ffd091;
+}
+.container .box6{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box7 td:nth-child(even){
+    background-color: #b46700;
+}
+.box7 td:nth-child(odd){
+    background-color: #ffd091;
+}
+.container .box7{
+    font-size: 2.5rem;
+    text-align: center;
+}
+.box8 td:nth-child(odd){
+    background-color: #b46700;
+}
+.box8 td:nth-child(even){
+    background-color: #ffd091;
+}
+.container .box8{
+    font-size: 2.5rem;
+    text-align: center;
+} 
+.container .blk-attack-wte{
+   width: 22%;
+   position: relative;
+   top: 90px;
+   margin-left: 290px;
+}
+.blk-attack-wte ul li{
+    font-size: 2.5rem;
+    list-style: none;
+}
+.container .wte-attack-blk{
+   width: 3%;
+   position: relative;
+   left: 76%;
+   margin-top: 18%;
+   padding: 60px 0px;
+}
+.wte-attack-blk ul li{
+    font-size: 2.5rem;
+    list-style: none;
+}
