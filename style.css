@@ -11,7 +11,7 @@ table,tr,td{
     border-collapse: collapse;
     height: 80px;
     width: 800px;
-    margin: 50px 350px;
+    margin: 20px 350px;
 }
 .box1 td:nth-child(even){
     background-color: #b46700;
@@ -96,7 +96,7 @@ table,tr,td{
 .container .blk-attack-wte{
    width: 22%;
    position: relative;
-   top: 90px;
+   top: 40px;
    margin-left: 290px;
 }
 .blk-attack-wte ul li{
@@ -107,7 +107,7 @@ table,tr,td{
    width: 3%;
    position: relative;
    left: 76%;
-   margin-top: 18%;
+   margin-top: 250px;
    padding: 60px 0px;
 }
 .wte-attack-blk ul li{
